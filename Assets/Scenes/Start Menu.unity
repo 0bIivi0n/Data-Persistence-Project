@@ -517,7 +517,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Tape your name...
+  m_Text: Type your name...
 --- !u!222 &1055195430
 CanvasRenderer:
   m_ObjectHideFlags: 0

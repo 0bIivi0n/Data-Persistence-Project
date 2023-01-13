@@ -21,6 +21,10 @@ public class MenuUIHandler : MonoBehaviour
         {
             startButton.GetComponent<Button>().interactable = true;
         }
+        else
+        {
+            startButton.GetComponent<Button>().interactable = false;
+        }
    }
    public void StartGame()
    {
